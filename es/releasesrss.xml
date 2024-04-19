@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Dpowcoin Core</title>
+        <description></description>
+        <link>https://dpowcore.org</link>
+        <atom:link href="https://dpowcore.org/es/rss.xml" rel="self" type="application/rss+xml" />
+        
+        
+        <item>
+            <title>Dpowcoin Core 26.1</title>
+            <description>&lt;p&gt;&lt;strong&gt;Dpowcoin Core installation binaries can be downloaded from &lt;a href=&quot;/en/download&quot;&gt;dpowcore.org&lt;/a&gt; and the source-code is available from the &lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin&quot;&gt;Dpowcoin Core&lt;/a&gt; source repository.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;261-release-notes&quot;&gt;26.1 Release Notes&lt;/h1&gt;
+
+&lt;p&gt;Dpowcoin Core version 26.1 is now available from:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dpowcore.org/download/&quot;&gt;https://dpowcore.org/download/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This release includes various bug fixes and performance
+improvements, as well as updated translations.&lt;/p&gt;
+
+&lt;p&gt;Please report bugs using the issue tracker at GitHub:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/issues&quot;&gt;https://github.com/dpowcore-project/dpowcoin/issues&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To receive security and update notifications, please subscribe to:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dpowcore.org/en/list/announcements/join/&quot;&gt;https://dpowcore.org/en/list/announcements/join/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;this-is-initial-project-release&quot;&gt;This Is Initial Project Release&lt;/h1&gt;
+
+&lt;p&gt;How to start mining ?&lt;/p&gt;
+
+&lt;p&gt;go to debug console and put command&lt;/p&gt;
+
+&lt;p&gt;generatetoaddress nblocks “address” ( maxtries )&lt;/p&gt;
+
+&lt;p&gt;Example for infine try&lt;/p&gt;
+
+&lt;p&gt;generatetoaddress -1 “Myaddress” -1&lt;/p&gt;
+
+&lt;h1 id=&quot;compatibility&quot;&gt;Compatibility&lt;/h1&gt;
+
+&lt;p&gt;Please test and repoort if you find any bugs , but it most work at all recents supported systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/issues&quot;&gt;https://github.com/dpowcore-project/dpowcoin/issues&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;notable-changes&quot;&gt;Notable changes&lt;/h1&gt;
+
+&lt;h3 id=&quot;initial-rebranding-text-and-some-roldersfiles&quot;&gt;Initial rebranding text and some rolders/files.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/commit/44671ac9eebbc0e5b68aaaa0fd40f2e77a130ee2&quot;&gt;44671ac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;port-changes-network-magic-changes-mainnet-prefixes&quot;&gt;Port Changes, Network Magic Changes, Mainnet Prefixes.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/commit/950d021a70da40bc676839a4b20c5dbab4d14506&quot;&gt;950d021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;remove-bip30-exepctions&quot;&gt;remove BIP30 exepctions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/commit/7ddea89a50f19355b6326023b8ccdc570a4d98ca&quot;&gt;7ddea89&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;add-yespower-and-argon2id-algos-add-dual-pow-logic-drop-bips&quot;&gt;Add Yespower and Argon2id Algos, Add dual POW logic, Drop BIP’s.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/commit/13fcd2f73e5de1adf5050ce09f0ac4c85002f566&quot;&gt;13fcd2f&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;blockchain-settings-fix-tests-and-dissable-broken-due-new-pow-logic&quot;&gt;Blockchain settings, fix tests, and dissable broken due new pow logic.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dpowcore-project/dpowcoin/commit/205f279b1fd93023453439c13434aacc3ce86eb0&quot;&gt;205f279&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;credits&quot;&gt;Credits&lt;/h1&gt;
+
+&lt;p&gt;Thanks to everyone who directly contributed to this release:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Someunknownman&lt;/li&gt;
+  &lt;li&gt;Mraksoll&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As well as to everyone that helped with translations on
+&lt;a href=&quot;https://www.transifex.com/bitcoin/bitcoin/&quot;&gt;Transifex&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 +0300</pubDate>
+            <link>https://dpowcore.org/en/releases/26.1/</link>
+            <guid isPermaLink="true">https://dpowcore.org/en/releases/26.1/</guid>
+        </item>
+        
+    </channel>
+</rss>

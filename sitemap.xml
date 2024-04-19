@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/</loc>
+        
+          
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/dumptxoutset/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getargon2idpowhash/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getbestblockhash/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblock/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockchaininfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockcount/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockfilter/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockfrompeer/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockhash/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockheader/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getblockstats/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getchainstates/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getchaintips/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getchaintxstats/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getdeploymentinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getdifficulty/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getmempoolancestors/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getmempooldescendants/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getmempoolentry/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getmempoolinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getrawmempool/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/gettxout/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/gettxoutproof/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/gettxoutsetinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/gettxspendingprevout/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/getyespowerpowhash/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/importmempool/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/loadtxoutset/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/preciousblock/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/pruneblockchain/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/savemempool/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/scanblocks/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/scantxoutset/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/verifychain/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/blockchain/verifytxoutproof/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/control/getmemoryinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/control/getrpcinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/control/help/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/control/logging/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/control/stop/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/control/uptime/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/getblocktemplate/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/getmininginfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/getnetworkhashps/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/getprioritisedtransactions/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/prioritisetransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/submitblock/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/mining/submitheader/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/addnode/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/clearbanned/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/disconnectnode/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getaddednodeinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getaddrmaninfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getconnectioncount/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getnettotals/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getnetworkinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getnodeaddresses/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/getpeerinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/listbanned/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/ping/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/setban/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/network/setnetworkactive/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/analyzepsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/combinepsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/combinerawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/converttopsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/createpsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/createrawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/decodepsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/decoderawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/decodescript/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/descriptorprocesspsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/finalizepsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/fundrawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/getrawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/joinpsbts/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/sendrawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/signrawtransactionwithkey/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/submitpackage/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/testmempoolaccept/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/rawtransactions/utxoupdatepsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/signer/enumeratesigners/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/createmultisig/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/deriveaddresses/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/estimatesmartfee/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/getdescriptorinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/getindexinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/signmessagewithprivkey/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/validateaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/util/verifymessage/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/abandontransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/abortrescan/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/addmultisigaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/backupwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/bumpfee/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/createwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/dumpprivkey/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/dumpwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/encryptwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getaddressesbylabel/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getaddressinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getbalance/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getbalances/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getnewaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getrawchangeaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getreceivedbyaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getreceivedbylabel/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/gettransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getunconfirmedbalance/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/getwalletinfo/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importdescriptors/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importmulti/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importprivkey/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importprunedfunds/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importpubkey/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/importwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/keypoolrefill/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listaddressgroupings/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listdescriptors/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listlabels/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listlockunspent/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listreceivedbyaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listreceivedbylabel/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listsinceblock/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listtransactions/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listunspent/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listwalletdir/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/listwallets/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/loadwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/lockunspent/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/migratewallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/newkeypool/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/psbtbumpfee/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/removeprunedfunds/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/rescanblockchain/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/restorewallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/send/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/sendall/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/sendmany/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/sendtoaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/sethdseed/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/setlabel/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/settxfee/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/setwalletflag/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/signmessage/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/signrawtransactionwithwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/simulaterawtransaction/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/unloadwallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/upgradewallet/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/walletcreatefundedpsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/walletdisplayaddress/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/walletlock/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/walletpassphrase/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/walletpassphrasechange/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/26.1.0/rpc/wallet/walletprocesspsbt/</loc>
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/doc/</loc>
+        
+          
+        
+        <lastmod></lastmod>
+        
+        
+      </url>
+    
+  
+
+  
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/about/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/blockexplorers/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/blog/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/branding/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/coininfo/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/communityprojects/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/contact/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/contribute/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/download/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/exchangers/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/lifecycle/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/markettrasing/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/releases/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/rss/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/segwit_wallet_dev/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/socialmediahub/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/bips/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/supportus/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/faq/contributing-code/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/legal/cookie/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/legal/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/legal/privacy/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/list/announcements/join/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/2024/04/19/release-26.1/</loc>
+        
+          
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+
+  
+  
+    
+      <url>
+        <loc>https://dpowcore.org/en/releases/26.1/</loc>
+        
+        <lastmod>2024-04-19T00:00:00+03:00</lastmod>
+        
+        
+      </url>
+    
+  
+
+</urlset>
