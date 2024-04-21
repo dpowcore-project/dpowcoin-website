@@ -4,21 +4,21 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-<!-- source: '_posts/en/pages/2024-04-19-releases.md' -->
-<!-- name: 'releases' -->
-<!-- version: 1 -->
+<!-- source: '_releases/26.1.md' -->
+<!-- name: 'release-26.2' -->
+<!-- version:  -->
 <!-- translated:  -->
 <meta charset="utf-8">
 
-<title>Dpowcoin Core :: Releases</title>
-<meta name="description" content="Releases">
+<title>Dpowcoin Core :: Dpowcoin Core 26.2</title>
+<meta name="description" content="Dpowcoin Core 26.2">
 <meta name="keywords" content="">
-<meta http-equiv="onion-location" content="http://6hasakffvppilxgehrswmffqurlcjjjhd76jgvaqmsg6ul25s7t3rzyd.onion/en/releases/" />
+<meta http-equiv="onion-location" content="http://6hasakffvppilxgehrswmffqurlcjjjhd76jgvaqmsg6ul25s7t3rzyd.onion/en/releases/26.2/" />
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Releases">
-<meta name="twitter:description" content="Releases">
+<meta name="twitter:title" content="Dpowcoin Core 26.2">
+<meta name="twitter:description" content="Dpowcoin Core 26.2">
 <meta name="twitter:site" content="@dpowcoin">
 <meta name="twitter:creator" content="@dpowcoin">
 
@@ -28,17 +28,17 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Releases">
-<meta property="og:description" content="Releases">
-<meta property="og:url" content="https://dpowcore.org/en/releases/">
+<meta property="og:title" content="Dpowcoin Core 26.2">
+<meta property="og:description" content="Dpowcoin Core 26.2">
+<meta property="og:url" content="https://dpowcore.org/en/releases/26.2/">
 <meta property="og:site_name" content="Dpowcoin Core">
 
 <meta property="og:image" content="https://dpowcore.org/assets/images/default-thumb.png">
 
 
 
-<link rel="alternate" hreflang="en" href="https://dpowcore.org/en/releases/" />
-<link rel="canonical" href="https://dpowcore.org/en/releases/">
+
+<link rel="canonical" href="https://dpowcore.org/en/releases/26.2/">
 <link href="https://dpowcore.org/en/feed.xml" type="application/atom+xml" rel="alternate" title="Dpowcoin Core Blog XML Feed">
 <link href="https://dpowcore.org/en/rss.xml" type="application/rss+xml" rel="alternate" title="Dpowcoin Core Blog RSS Feed">
 
@@ -870,10 +870,6 @@
                     <!--<li><a>English</a>-->
                     <!--      -->
                     <!---->
-                    <!---->
-                    <!--<a href="/en/releases/" class="en">English</a>-->
-                    <!--<a href="/en/releases/" class="en">English</a>-->
-                    <!---->
                 <!--</li>-->
 		    </ul>
 		</nav>
@@ -886,23 +882,69 @@
 <div id="main" role="main">
   <div class="article-author-side">&nbsp;</div>
   <article class="page">
-    <h1>Releases</h1>
+    <h1>Dpowcoin Core 26.2</h1>
     <div class="article-wrap">
       <!-- { % include istranslated.html % } -->
-      <ul class="releases">
-  
-  
-  
-    
-    
-  <li>
-    <a href="/en/releases/26.2/">
-      Dpowcoin Core 26.2
-    </a>
-    <div class="desc"></div>
-  </li>
-  
+      <p><strong>Dpowcoin Core installation binaries can be downloaded from <a href="/en/download">dpowcore.org</a> and the source-code is available from the <a href="https://github.com/dpowcore-project/dpowcoin">Dpowcoin Core</a> source repository.</strong></p>
+
+<h1 id="262-release-notes">26.2 Release Notes</h1>
+
+<p>Dpowcoin Core version 26.2 is now available from:</p>
+
+<p><a href="https://dpowcore.org/download/">https://dpowcore.org/download/</a></p>
+
+<p>This release includes various bug fixes and performance
+improvements, as well as updated translations.</p>
+
+<p>Please report bugs using the issue tracker at GitHub:</p>
+
+<p><a href="https://github.com/dpowcore-project/dpowcoin/issues">https://github.com/dpowcore-project/dpowcoin/issues</a></p>
+
+<p>To receive security and update notifications, please subscribe to:</p>
+
+<p><a href="https://dpowcore.org/en/list/announcements/join/">https://dpowcore.org/en/list/announcements/join/</a></p>
+
+<h1 id="fix-network-sync-problems">Fix Network sync problems</h1>
+
+<p>This releases fixes potential peer drop problem</p>
+
+<h1 id="compatibility">Compatibility</h1>
+
+<p>Please test and repoort if you find any bugs , but it most work at all recents supported systems.</p>
+
+<p><a href="https://github.com/dpowcore-project/dpowcoin/issues">https://github.com/dpowcore-project/dpowcoin/issues</a></p>
+
+<h1 id="notable-changes">Notable changes</h1>
+
+<h3 id="fix-potential-droping-nodes-and-update-checkpoints">Fix potential droping nodes and update checkpoints..</h3>
+
+<ul>
+  <li><a href="https://github.com/dpowcore-project/dpowcoin/commit/87254299efc92ef7bff01d97d9f6a7246f630969">8725429</a></li>
 </ul>
+
+<h3 id="add-seeds--pump-version-at-builder">Add seeds , pump version at builder.</h3>
+
+<ul>
+  <li><a href="https://github.com/dpowcore-project/dpowcoin/commit/1a0ebf86ed74ac974f1407f01825b427a7215437">1a0ebf8</a></li>
+</ul>
+
+<h3 id="update-chaintxdata">Update chainTxData.</h3>
+
+<ul>
+  <li><a href="https://github.com/dpowcore-project/dpowcoin/commit/c40e410b58afc98596505fd33218989394fedc15">c40e410</a></li>
+</ul>
+
+<h1 id="credits">Credits</h1>
+
+<p>Thanks to everyone who directly contributed to this release:</p>
+
+<ul>
+  <li>Someunknownman</li>
+  <li>Mraksoll</li>
+</ul>
+
+<p>As well as to everyone that helped with translations on
+<a href="https://www.transifex.com/bitcoin/bitcoin/">Transifex</a>.</p>
 
 
     </div><!-- /.article-wrap -->

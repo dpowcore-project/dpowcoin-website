@@ -998,7 +998,9 @@
 
 <p>Example for infine try</p>
 
-<p><code>generatetoaddress -1 "Myaddress" -1</code></p>
+<p><code>generatetoaddress 10000 "Myaddress" -1</code></p>
+
+<p>nblocks must be positive value!</p>
 
 <p>Two proofs of work (POWs) are utilized for each block validation process. Initially, the block undergoes verification using the Yespower algorithm. Subsequently, the same block is subjected to two rounds of SHA512 with a salt, followed by two rounds of Argon2id. The block is deemed valid only if it passes both proof of work validations simultaneously.</p>
 
